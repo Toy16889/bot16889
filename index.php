@@ -1,2 +1,2 @@
 <?php
-echo "ควยไอ่หมี";
+echo "Hello LINE BOT";
